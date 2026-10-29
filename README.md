@@ -2,7 +2,7 @@
 
 **Candidate:** Abdul Haadi  
 **Assessment reference:** MATACS-TH-2026-02  
-**Time spent:** Replace this with your actual time spent before submission.
+**Time spent:** 30 Mins.
 
 ## Overview
 This repository contains a design for an AI-assisted proposal triage workflow. AI extracts evidence from proposal documents; deterministic application code applies mandatory checks, computes weighted scores, and produces an explainable provisional ranking. A human reviewer makes the final award decision.
